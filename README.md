@@ -3,6 +3,7 @@ A game built by Wicked Horizon
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 A story of friends trying to escape a wicked stalker of the abandoned house. As the main character you'll be sprinting through halls and collecting clues to figure out mysteries of the rooms inside the house. What is the real story? Are you truly escaping from something sinister or is there a reason you came here in the first place?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Members & Roles:
 
 Abbey Disenhouse: Lead Designer/Item Design/Audio Design, Programming
